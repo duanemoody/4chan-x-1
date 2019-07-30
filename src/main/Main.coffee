@@ -656,6 +656,7 @@ Main =
     ['Flash Features',            Flash]
     ['Reply Pruning',             ReplyPruning]
     ['Mod Contact Links',         ModContact]
+    ['Download All Media',        DownAll]
     <% if (readJSON('/.tests_enabled')) { %>
     ['Build Test',                Test]
     <% } %>
