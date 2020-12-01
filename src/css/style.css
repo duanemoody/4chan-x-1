@@ -555,6 +555,8 @@ audio.controls-added {
 .sections-list {
   -webkit-flex: 1;
   flex: 1;
+  border-bottom: 1px solid #ccc;
+  height: 1.2em;
 }
 .export, .import, .reset {
   cursor: pointer;
